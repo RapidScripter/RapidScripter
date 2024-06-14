@@ -31,9 +31,24 @@ I'm Kashyap Patel, an experienced System and Cloud Engineer with a strong backgr
 - 🐧 Linux and Windows OS
 - 🖥️ Windows Server 2019, 2022
 - 🤖 Automation and Orchestration
-- ☁️ Cloud Services Administration
+- ☁️ Cloud Services Administration (Microsoft Azure)
 - 🤝 Collaboration and Communication
 - 🛠️ Technical Support
+- 🖥️ M365 Administration
+- 🔧 Active Directory Management
+- 🛡️ Antivirus Management (Webroot, Trend Micro, Sophos Central, ESET)
+- 🔍 PRTG Network Monitoring
+- 📧 Email Backup and Recovery
+- 📊 Reporting and Documentation
+- 🔄 IT Asset Management
+- 🐍 Python Programming for Automation
+- 🔒 Sophos Firewall
+- 🛡️ CrowdStrike
+- ☁️ 365 Migration (BitTitan MigrationWiz)
+- ☁️ Cloud Backups (NAS, Datto, Acronis, Ave Point Element, Shadow Control)
+- 🖥️ RMM (N-Able, ConnectWise Automate)
+- 💻 PowerShell Scripting for Automation
+- 🗂️ Ticketing Tool (Auto Task)
 
 ## Certifications 📜
 
