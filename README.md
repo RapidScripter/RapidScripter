@@ -89,13 +89,30 @@ Results-driven Cloud Engineer with 3 years of experience architecting, implement
 - **Automation Scripting:** Experienced in automation scripting within RMM environments.
 - **Secure Password Vault Management:** Manage Keeper and Passportal for a secure password vault.
 
-- **EHEALTHSOURCE, Usmanpura, Ahmedabad**  
-  *Senior IT Support Engineer* (February 2023 - February 2024) 
-  Resolve complex security issues in critical systems and lead security enhancement projects. Facilitate secure office moves and expansions, locally and remotely. Manage computer equipment inventory and procurement, ensuring overall security. Develop Python programs for automating tasks like asset management. Provide technical support for internal software and tools, emphasizing security measures.
 
-- **SMS Hospital, Chandkheda, Ahmedabad**  
-  *IT Support Assistant* (January 2022 - February 2023)  
-  Install, configure, test, and troubleshoot networking solutions. Provide technical support for desktops, laptops, software, hardware, networking, and printers. Administer critical systems like Active Directory (AD) and Group Policy Objects (GPO). Implement backup management, reporting, and recovery procedures.
+### EHEALTHSOURCE, Usmanpura, Ahmedabad  
+**Senior IT Support Engineer** (February 2023 - February 2024)
+
+- **Security Issue Resolution:** Resolve complex security issues in critical systems and lead security enhancement projects.
+- **Secure Office Moves:** Facilitate secure office moves and expansions, both locally and remotely.
+- **Partner Collaboration:** Collaborate with partners to uphold security standards and maintain positive relationships.
+- **Inventory Management:** Manage computer equipment inventory and procurement, ensuring overall security.
+- **Internal Support:** Provide support for internal software and tools, prioritizing security measures.
+- **Automation Development:** Develop Python programs to automate tasks like asset management.
+- **Technical Troubleshooting:** Troubleshoot software, network, and hardware issues with user care.
+- **Documentation & Training:** Maintain technical documentation and provide security training to team members.
+
+
+### SMS Hospital, Chandkheda, Ahmedabad  
+**IT Support Assistant** (January 2022 - February 2023)
+
+- **Networking Solutions:** Installed, configured, tested, and troubleshot networking solutions.
+- **Technical Support:** Provided technical support for desktops, laptops, software, hardware, networking, and printers to on-site and remote staff.
+- **Inventory Management:** Managed hardware inventory, facilitated new purchases and maintained accurate records.
+- **System Administration:** Administered critical systems like Active Directory (AD) and Group Policy Objects (GPO).
+- **Vendor Collaboration:** Worked with vendors to resolve hardware and software issues.
+- **IT Product Support:** Supported IT products, including the MS Office suite and network access systems.
+- **Backup Management:** Implemented backup management, reporting, and recovery procedures.
 
 ---
 
