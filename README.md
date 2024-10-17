@@ -67,9 +67,27 @@ Results-driven Cloud Engineer with 3 years of experience architecting, implement
 
 ## Work Experience 💼
 
-- **Infrassist Technologies Pvt. Ltd., Makarba, Ahmedabad**  
-  *System and Cloud Engineer* (March 2024 - Present)
-  Configure and manage Synology NAS, Datto Backup, Acronis Backup, and Shadow Protect Backup tasks. Restore deleted emails and export full email backup PST files. Utilize PRTG network monitoring tools for comprehensive network analysis. Provide system support for client infrastructure, including Outlook, Teams, and OneDrive. Proficient in M365 administration, user management, and Active Directory.
+### Infrassist Technologies Pvt. Ltd., Makarba, Ahmedabad  
+**System and Cloud Engineer** (March 2024 - Present)
+
+- **Synology NAS Configuration and Management:** Expertise in configuring and managing Synology NAS devices for effective storage and data management.
+- **Backup Solutions:** Proficient in Datto Backup, Acronis Backup, and Shadow Protect Backup for comprehensive data protection and recovery.
+- **Email Management:** Skilled in restoring deleted emails, exporting full email backup PST files, and managing email protection with Mail Assure and Sophos Email Protection.
+- **Network Monitoring:** Experienced in using PRTG network monitoring tools for detailed network analysis.
+- **Client Infrastructure Support:** Providing support for client infrastructure, including Outlook, Teams, and OneDrive.
+- **M365 Administration:** Proficient in M365 administration, user management, and Active Directory.
+- **Ticketing and RMM Tools:** Experienced with Auto Task, N-Able N-Sight, and ConnectWise Automate RMM tools for IT service management.
+- **Antivirus Solutions:** Proficient with Webroot, Trend Micro, Sophos Central, and ESET Antivirus.
+- **O365 Backup Management:** Manage O365 backup solutions using Cove Data Protection and Axcient.
+- **Email Security Records Management:** Manage DMARK, SPF, and DKIM records in Sandmarc.
+- **VOIP Management:** Manage 3cx for VOIP services.
+- **Microsoft Licensing:** Manage Microsoft licenses through Dicker Data.
+- **Phishing Awareness:** Conduct phishing threat campaigns to enhance user awareness and security.
+- **Firewall Management:** Manage Sophos Firewall with assurance checks for security.
+- **Routing and Switching:** Involved in routing, switching, and manageable switch configuration.
+- **Windows Server Management:** Proficient in managing Windows Servers.
+- **Automation Scripting:** Experienced in automation scripting within RMM environments.
+- **Secure Password Vault Management:** Manage Keeper and Passportal for a secure password vault.
 
 - **EHEALTHSOURCE, Usmanpura, Ahmedabad**  
   *Senior IT Support Engineer* (February 2023 - February 2024) 
