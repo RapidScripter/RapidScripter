@@ -2,7 +2,7 @@
 
 I'm Kashyap Patel, an experienced System and Cloud Engineer with a strong background in IT support and cloud infrastructure management. I am currently the Chief Technology Officer (CTO) at Qubitix Technologies Pvt. Ltd., where I lead the technology strategy and innovation to drive growth and digital transformation.
 
-📧 **Contact me**: kashyap5000@gmail.com
+📧 **Contact me**: kashyap.patel@qubitixtech.com
 
 ## About Me
 
